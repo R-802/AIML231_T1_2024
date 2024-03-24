@@ -1,0 +1,7 @@
+,ionosphere,steelplates,banknotes
+DecisionTreeClassifier,5,6,7
+KNeighborsClassifier,1,1,2
+LogisticRegression,2.0,5.0,5.0
+MLPClassifier,-5.0,1.0,-3.0
+RandomForestClassifier,8,10,8
+SVC,rbf,linear,rbf
